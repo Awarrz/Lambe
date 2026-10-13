@@ -1,0 +1,2185 @@
+{
+  "schemaVersion": 1,
+  "id": "custom_arabizi_mcgovern_v1",
+  "name": "Arabic · Arabizi (McGovern-based)",
+  "english": false,
+  "referenceData": null,
+  "hebrewDefaults": false,
+  "autoFlip": false,
+  "autoR": false,
+  "vowelsForward": false,
+  "explicitCarrier": true,
+  "carrier": "telco",
+  "disabledRules": [],
+  "deletedInputs": [],
+  "removedRules": [
+    "r_context"
+  ],
+  "associations": [
+    {
+      "input": "2",
+      "token": "calma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "'",
+      "token": "calma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "’",
+      "token": "calma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ʼ",
+      "token": "calma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ʾ",
+      "token": "calma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ʔ",
+      "token": "calma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "b",
+      "token": "umbar",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "t",
+      "token": "tinco",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "th",
+      "token": "thuule",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ṯ",
+      "token": "thuule",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "θ",
+      "token": "thuule",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "j",
+      "token": "anca",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "dj",
+      "token": "anca",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ǧ",
+      "token": "anca",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ʒ",
+      "token": "anca",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ʤ",
+      "token": "anca",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "7",
+      "token": "vilya",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ḥ",
+      "token": "vilya",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "5",
+      "token": "hwesta",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "7'",
+      "token": "hwesta",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "7’",
+      "token": "hwesta",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "kh",
+      "token": "hwesta",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "x",
+      "token": "hwesta",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ḫ",
+      "token": "hwesta",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "χ",
+      "token": "hwesta",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "d",
+      "token": "ando",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "dh",
+      "token": "anto",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ḏ",
+      "token": "anto",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ð",
+      "token": "anto",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "r",
+      "token": "roomen",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "z",
+      "token": "esse-nuquerna",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "s",
+      "token": "silme-nuquerna",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "sh",
+      "token": "harma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "š",
+      "token": "harma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ʃ",
+      "token": "harma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "9",
+      "token": "extended-calma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ṣ",
+      "token": "extended-calma",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "9'",
+      "token": "extended-ando",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "9’",
+      "token": "extended-ando",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ḍ",
+      "token": "extended-ando",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "6",
+      "token": "extended-tinco",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ṭ",
+      "token": "extended-tinco",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "6'",
+      "token": "extended-anga",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "6’",
+      "token": "extended-anga",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ẓ",
+      "token": "extended-anga",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "3",
+      "token": "anga",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ʿ",
+      "token": "anga",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ʕ",
+      "token": "anga",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "3'",
+      "token": "unque",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "3’",
+      "token": "unque",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "gh",
+      "token": "unque",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ġ",
+      "token": "unque",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ɣ",
+      "token": "unque",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "f",
+      "token": "formen",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "8",
+      "token": "extended-quesse",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "q",
+      "token": "extended-quesse",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "k",
+      "token": "quesse",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "l",
+      "token": "lambe",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "m",
+      "token": "malta",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "n",
+      "token": "nuumen",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "h",
+      "token": "hyarmen",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "w",
+      "token": "vala",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "y",
+      "token": "anna",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "a",
+      "token": "a",
+      "isMark": true,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "i",
+      "token": "i",
+      "isMark": true,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "e",
+      "token": "i",
+      "isMark": true,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "u",
+      "token": "o",
+      "isMark": true,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "o",
+      "token": "o",
+      "isMark": true,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "aa",
+      "token": "telco",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "a",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ā",
+      "token": "telco",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "a",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "â",
+      "token": "telco",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "a",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ii",
+      "token": "yanta",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ee",
+      "token": "yanta",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ī",
+      "token": "yanta",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "î",
+      "token": "yanta",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "uu",
+      "token": "uure",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "oo",
+      "token": "uure",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "ū",
+      "token": "uure",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "û",
+      "token": "uure",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "t*",
+      "token": "oore",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": []
+    },
+    {
+      "input": "a*",
+      "token": "aara",
+      "isMark": false,
+      "isVowel": true,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "a",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "laa",
+      "token": "alda",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "a",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "lā",
+      "token": "alda",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "a",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "lâ",
+      "token": "alda",
+      "isMark": false,
+      "isVowel": false,
+      "noOutput": false,
+      "classifiesPrevious": false,
+      "direction": 8,
+      "inherited": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "a",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "input": "22",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "calma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "''",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "calma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "’’",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "calma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ʼʼ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "calma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ʾʾ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "calma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ʔʔ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "calma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "bb",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "umbar",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "tt",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "tinco",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "thth",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "thuule",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ṯṯ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "thuule",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "θθ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "thuule",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "jj",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anca",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "djdj",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anca",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ǧǧ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anca",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ʒʒ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anca",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ʤʤ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anca",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "77",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "vilya",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ḥḥ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "vilya",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "55",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "hwesta",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "7'7'",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "hwesta",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "7’7’",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "hwesta",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "khkh",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "hwesta",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "xx",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "hwesta",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ḫḫ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "hwesta",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "χχ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "hwesta",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "dd",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "ando",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "dhdh",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anto",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ḏḏ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anto",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ðð",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anto",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "rr",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "roomen",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "zz",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "esse-nuquerna",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ss",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "silme-nuquerna",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "shsh",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "harma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "šš",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "harma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ʃʃ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "harma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "99",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-calma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ṣṣ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-calma",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "9'9'",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-ando",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "9’9’",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-ando",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ḍḍ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-ando",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "66",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-tinco",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ṭṭ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-tinco",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "6'6'",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-anga",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "6’6’",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-anga",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ẓẓ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-anga",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "33",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anga",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ʿʿ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anga",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ʕʕ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anga",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "3'3'",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "unque",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "3’3’",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "unque",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ghgh",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "unque",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ġġ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "unque",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ɣɣ",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "unque",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ff",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "formen",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "88",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-quesse",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "qq",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "extended-quesse",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "kk",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "quesse",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ll",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "lambe",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "mm",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "malta",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "nn",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "nuumen",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "hh",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "hyarmen",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "ww",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "vala",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "yy",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": false,
+      "baseToken": "anna",
+      "previous": false,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "doubleBar",
+          "direction": 2,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "a~",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": true,
+      "baseToken": "telco",
+      "previous": true,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "a",
+          "direction": 8,
+          "dx": 0
+        },
+        {
+          "token": "tilde",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "i~",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": true,
+      "baseToken": "telco",
+      "previous": true,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "i",
+          "direction": 8,
+          "dx": 0
+        },
+        {
+          "token": "tilde",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "e~",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": true,
+      "baseToken": "telco",
+      "previous": true,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "i",
+          "direction": 8,
+          "dx": 0
+        },
+        {
+          "token": "tilde",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "u~",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": true,
+      "baseToken": "telco",
+      "previous": true,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "o",
+          "direction": 8,
+          "dx": 0
+        },
+        {
+          "token": "tilde",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    },
+    {
+      "input": "o~",
+      "scope": "anywhere",
+      "context": "",
+      "marksOnly": true,
+      "baseToken": "telco",
+      "previous": true,
+      "enabled": true,
+      "marks": [
+        {
+          "token": "o",
+          "direction": 8,
+          "dx": 0
+        },
+        {
+          "token": "tilde",
+          "direction": 8,
+          "dx": 0
+        }
+      ]
+    }
+  ]
+}
