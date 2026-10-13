@@ -1,0 +1,18 @@
+Lambe 0.9.6 Open alpha
+Created and developed by André I. Ben
+Lambe Labs
+
+Extract the entire ZIP before opening Lambe.exe.
+Keep Lambe.exe, all DLL files, data and modes together.
+The fonts and supplied modes are included with the application.
+
+The input starts blank. Choose Writing mode, then enter your own text.
+The user guide is in docs. Arabic input conventions are also in docs/ARABIZI-GUIDE.md.
+
+Custom modes are normally saved in modes beside the application.
+If that folder is read-only, Windows app data is used instead.
+Move the whole folder to keep a portable installation together.
+Export important modes before changing or replacing an installation.
+
+Your current source composition and unsaved font data do not automatically reopen.
+Keep source text, export images and save fonts before closing.
