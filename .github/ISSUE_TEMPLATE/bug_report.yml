@@ -1,0 +1,38 @@
+name: Alpha bug report
+description: Report a reproducible transcription, editing, persistence or font issue.
+title: "[0.9.1] "
+body:
+  - type: input
+    id: platform
+    attributes:
+      label: Platform and version
+      placeholder: Windows 11 or Android version, Lambe version
+    validations:
+      required: true
+  - type: input
+    id: mode
+    attributes:
+      label: Selected mode and font
+    validations:
+      required: true
+  - type: textarea
+    id: input
+    attributes:
+      label: Exact input and reproduction steps
+      description: Include custom mode JSON when relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+      description: Named tengwar and tehtar are particularly useful for transcription reports.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: Include a screenshot or exported document if useful.
+    validations:
+      required: true
