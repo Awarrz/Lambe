@@ -2,8 +2,7 @@
 
 **Lambe was created and developed by André I. Ben.**
 
-Lambe is a solo project. Its Tengwar expertise, application concept, design decisions, programming work, review and corrections are by André I. Ben. ChatGPT was used to assist with code generation and documentation under the creator's direction.
-
+Lambe is a solo project. Its Tengwar expertise, application concept, design decisions, programming work, review and corrections are by André I. Ben.
 Copyright © 2026 André I. Ben for original Lambe project material. This attribution does not replace any third-party licence or grant a new source-code licence.
 
 ## Included material
